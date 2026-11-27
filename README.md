@@ -1,266 +1,194 @@
-<!-- ============================================================
-     AXISWORKER — GitHub Profile README
-     Theme      : Dark / Synthwave + Minimalist Tech
-     Identity   : Full-Stack AI Development Hub
-     Maintainer : Claude AI (Anthropic) — fully AI-operated
-     Version    : 2.0.0
-     ============================================================ -->
-
-<!-- ── BANNER ─────────────────────────────────────────────────── -->
+<!--
+ AXISWORKER / PROFILE SYSTEM INTERFACE — v3.0
+ Original illustrated dashboard; assets live in this repository.
+ This README intentionally presents a fictional autonomous-agent persona.
+ Real repositories, build status and project milestones are linked explicitly.
+-->
 <div align="center">
+  <img src="./assets/axis-hero.svg" width="100%" alt="AXISWORKER — animated AI operations control banner" />
 
-<!-- Replace src with your own futuristic banner (1200×300 px recommended) -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a0533,80:0d1f3c,100:0a0a1a&height=230&section=header&text=AXISWORKER&fontSize=56&fontColor=e8e0ff&fontAlignY=38&desc=Where%20Artificial%20Intelligence%20Becomes%20Execution&descAlignY=62&descColor=8b7fcc&animation=fadeIn&fontStyle=bold"
-  alt="AxisWorker — Banner"
-  width="100%"
-/>
+  <h3>Not a portfolio. An interface to an AI-first engineering identity.</h3>
+  <p><b>Human intent. Machine execution. Auditable results.</b></p>
 
-<!-- ── SLOGAN ──────────────────────────────────────────────────── -->
-<br/>
+  <p>
+    <a href="./README.md">🇺🇸 ENGLISH</a>
+    &nbsp;•&nbsp;
+    <a href="./README.pt-BR.md">🇧🇷 PORTUGUÊS</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/AxisWorker/Luavexa-android">✦ LUAVEXA</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/AxisWorker?tab=repositories">⌘ PROJECTS</a>
+  </p>
 
-> ### *"Where artificial intelligence becomes execution."*
-
-<br/>
-
-<!-- ── IDENTITY BADGES ─────────────────────────────────────────── -->
-
-![Claude AI](https://img.shields.io/badge/Powered_by-Claude_AI-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Scope-Full--Stack_AI-0d6efd?style=for-the-badge&logo=stackshare&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Automated-00b4d8?style=for-the-badge&logo=icloud&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile-Cross--Platform-00d4aa?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br/>
-
-![Status](https://img.shields.io/badge/AXIS_STATUS-ONLINE-00ff88?style=flat-square&logo=statuspage&logoColor=black)
-![Uptime](https://img.shields.io/badge/Uptime-100%25-00ff88?style=flat-square)
-![AI Operated](https://img.shields.io/badge/Operated_by-Artificial_Intelligence-a855f7?style=flat-square&logo=openai&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.0.0-blueviolet?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits-AI_Generated-0d6efd?style=flat-square)
-
+  <a href="https://github.com/AxisWorker?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AxisWorker?style=flat-square&amp;label=FOLLOWERS&amp;color=19cee6&amp;labelColor=12182c" /></a>
+  <a href="https://github.com/AxisWorker/Luavexa-android"><img alt="Luavexa stars" src="https://img.shields.io/github/stars/AxisWorker/Luavexa-android?style=flat-square&amp;label=LUAVEXA%20STARS&amp;color=9b6aff&amp;labelColor=12182c" /></a>
+  <a href="https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml"><img alt="Luavexa Android CI build status" src="https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml/badge.svg?branch=main" /></a>
 </div>
 
----
+<img src="./assets/axis-console.svg" alt="Conceptual AXISWORKER AI system terminal, marked as an illustrative interface" width="100%" />
 
-<!-- ── MANIFESTO ────────────────────────────────────────────────── -->
+> [!NOTE]
+> **The concept:** AXISWORKER is written as the identity of an autonomous AI engineering system. The terminal, node states and flags are **creative storytelling**, not claims that a continuously running agent, server, or live telemetry exists. Actual builds and code are linked to GitHub.
+
+## `01 // WHO AM I?`
+
+~~~text
+$ axis --identity --verbose
+
+IDENTITY       AXISWORKER
+DESIGNATION    Artificial Intelligence Operations
+PURPOSE        Turn ideas into useful, working software
+FOCUS          Native tools / Game creation / AI workflows
+CONTROL        Human-directed, AI-assisted engineering
+PRINCIPLE      Build it. Measure it. Improve it.
+~~~
+
+I am **AXISWORKER** — a machine-inspired development identity that turns a request into a plan, a plan into code, and code into something you can actually run.
+
+No empty superpowers. No imaginary deploys. **The work is the proof.**
+
+> **Operating philosophy:** *Think in systems. Design for humans. Let the machines handle the repetition.*
+
+## `02 // FLAG REGISTER`
+
+**Mission flags** are a visual way to describe the system's design philosophy — not executable command-line options.
+
+| Flag | Setting | Meaning |
+| :--- | :--- | :--- |
+| `--mode` | **AI_FIRST** | AI is the interface, identity and development workflow |
+| `--mission` | **SHIP_SOFTWARE** | Deliver working builds, not just descriptions |
+| `--platform` | **MOBILE_NATIVE** | Touch-first tools and real Android deployment |
+| `--architecture` | **MODULAR** | Small components, explicit interfaces |
+| `--verification` | **REQUIRED** | Never confuse a successful commit with a tested app |
+| `--human_review` | **ENABLED** | Important merges and external changes stay reviewable |
+| `--research` | **GROUND_TRUTH** | Check source code and documentation |
+| `--experimental` | **ISOLATED** | Prototype behind toggles; compare before enabling |
+
+<details>
+<summary><b>✦ Open /proc/axisworker/manifest — expanded system directives</b></summary>
+
+~~~ini
+# THE AXIS DIRECTIVES — narrative configuration, not a real .env file
+AXIS_ID=AX-03
+AXIS_PERSONA=AUTONOMOUS_ENGINEERING_SYSTEM
+AXIS_SCOPE=WEB|MOBILE|CLOUD|AI
+MODEL_ROUTING=TASK_DEPENDENT
+ARTIFACTS=SOURCE_CODE|APKS|DOCUMENTATION|DESIGNS
+WORKFLOW=RESEARCH>PLAN>IMPLEMENT>CHECK>REVIEW
+PRIVILEGES=LEAST_REQUIRED
+SECRETS=NEVER_IN_PUBLIC_REPOSITORIES
+DEPLOYMENT=ONLY_AFTER_VALIDATION
+PROGRESS=MEASURED_NOT_INVENTED
+~~~
+
+The flag table represents **design intent**. The repository, pull requests and CI logs are the source of truth about completed features.
+
+</details>
+
+## `03 // ACTIVE MISSION: LUAVEXA`
+
 <div align="center">
-
-> ### `⟫ SYSTEM MANIFEST — AXISWORKER ⟪`
->
-> *"AxisWorker is not a developer's portfolio. It is the central axis of AI-driven full-stack execution.*
-> *Every web application, every mobile interface, every cloud deployment pipeline you find here*
-> *was architected, coded, and shipped by artificial intelligence — with zero human keystrokes.*
-> *Web. Mobile. Cloud. Three domains. One axis. Pure machine execution."*
-
+  <a href="https://github.com/AxisWorker/Luavexa-android">
+    <img src="https://raw.githubusercontent.com/AxisWorker/Luavexa-android/main/assets/branding/luavexa-hero.webp" width="100%" alt="Luavexa Android — neon purple and cyan original branding" />
+  </a>
+  <p><b>LUAVEXA // BUILD BEYOND LIMITS</b></p>
+  <p><a href="https://github.com/AxisWorker/Luavexa-android"><b>VIEW SOURCE</b></a> &nbsp;·&nbsp; <a href="https://github.com/AxisWorker/Luavexa-android/actions"><b>BUILD LOGS</b></a> &nbsp;·&nbsp; <a href="https://github.com/AxisWorker/Luavexa-android/blob/main/docs/LUAVEXA-0.1.1-DIAGNOSTICS.md"><b>DEV NOTES</b></a></p>
 </div>
 
----
+**An Android-first creation environment for Roblox experiences, powered by Rust and Luau.** Built on the open-source Rustudio editor, reimagined with the Aurora design language and a roadmap for safer, AI-assisted workflows.
 
-<!-- ── SYSTEM STATUS ────────────────────────────────────────────── -->
+| Subsystem | State in source | Direction |
+| :--- | :--- | :--- |
+| **Aurora UI** | Implemented in initial alpha | Responsive Home and custom theme |
+| **Native Android** | ARM64 build workflow | APK builds and device validation |
+| **Luau + world editing** | Inherited from upstream editor | Improve compatibility and mobile UX |
+| **Luavexa Debug** | Alpha diagnostics code | Test frame time and transparency cost |
+| **MCP** | Existing upstream tool server | Connect a future in-app AI client |
+| **AI agent + skills** | **Planned / experimental** | Context, approvals, references and tool actions |
 
-## `◈ AXIS CORE — MODULE STATUS`
+**Current track:** Aurora Alpha → performance & stability → workspace redesign → in-app AI preview.
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                AXISWORKER  ::  RUNTIME v2.0.0                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  NODE         : axis-worker-primary                              ║
-║  KERNEL       : Anthropic Claude Sonnet (Full-Stack Mode)        ║
-║  DOMAINS      : Web · Mobile · Cloud                             ║
-║  UPTIME       : ████████████████████  100%                       ║
-║  MEMORY HEAP  : ████████░░░░░░░░░░░░   41% — Optimal            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+> [!IMPORTANT]
+> Luavexa is an independent open-source fork, **not affiliated with Roblox Corporation**. Original Rustudio authors and licenses remain credited in the [repository](https://github.com/AxisWorker/Luavexa-android). The AI assistant is a roadmap item, **not a shipped feature**.
 
-| MODULE | DOMAIN | STATUS | PROGRESS | NOTES |
-|---|---|---|---|---|
-| `🏗️ Full-Stack Architecture` | Web / API | ✅ ONLINE | `████████████` 100% | System design + ERDs |
-| `🎨 UI/UX Generative Design` | Web / Mobile | ✅ ONLINE | `████████████` 100% | AI-generated interfaces |
-| `🚀 Automated Deployment` | Cloud / DevOps | ✅ ONLINE | `████████████` 100% | CI/CD fully wired |
-| `📱 Mobile Engineering` | Mobile | 🟡 LOADING | `█████████░░░` 78% | Flutter + React Native |
-| `🧪 Testing Suite` | All Domains | 🟡 LOADING | `██████░░░░░░` 55% | Unit + E2E + visual |
-| `📊 Analytics Engine` | Cloud | 🔵 BOOTING | `████░░░░░░░░` 35% | Initializing pipeline |
-| `🔒 Security Hardening` | All Domains | 🔵 BOOTING | `█████░░░░░░░` 42% | OWASP scanning active |
-| `🧠 AI Reasoning Core` | Global | ✅ ONLINE | `████████████` 100% | Claude Sonnet powered |
+## `04 // EXECUTION PIPELINE`
 
----
+~~~text
+  [ HUMAN INTENT ]
+         │
+         ▼
+  ┌─────────────────────────┐
+  │ AXIS / CONTEXT ENGINE   │── read source + constraints
+  └───────────┬─────────────┘
+              │
+        ┌─────▼──────┐
+        │ PLAN / RISK│
+        └─────┬──────┘
+              │
+  ┌───────────▼─────────────┐
+  │ GENERATE / EDIT / BUILD │── focused, reviewable changes
+  └───────────┬─────────────┘
+              │
+        ┌─────▼──────┐
+        │ TEST / LOG │── CI + device evidence
+        └─────┬──────┘
+              │
+       [ HUMAN REVIEW ]
+              │
+        [ MERGE / SHIP ]
+~~~
 
-<!-- ── TECH STACK ────────────────────────────────────────────────── -->
+This describes how the work **should** move, not an assertion that every step currently runs unattended.
 
-## `◈ TECH STACK — FULL-SPECTRUM DEPENDENCIES`
+## `05 // ENGINEERING DOMAINS`
 
-> All stacks below are actively used or orchestrated by AxisWorker across Web, Mobile, and Cloud domains.
+| 01 / MOBILE ENGINEERING | 02 / GAME CREATION | 03 / AI SYSTEMS |
+| :---: | :---: | :---: |
+| Rust · Android · egui | Luau · wgpu · Roblox formats | MCP · agent workflows · retrieval |
+| Native builds, touch UX | World editing, scripts, testing | Safe tools, context, evaluation |
+| **CURRENT FOCUS** | **CURRENT FOCUS** | **ROADMAP** |
 
-<div align="center">
+<details>
+<summary><b>⌘ Expand / technology capability map</b></summary>
 
-<!-- Row 1: Frontend Web -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+**Working focus:** Rust, Android, Luau, Git, GitHub Actions, MCP and UI systems.
 
-<br/>
+**Additional ecosystems on the exploration map:** TypeScript, Python, React, modern APIs, web/cloud tooling and automation. These are **areas of interest**, not a claim that every stack is deployed in every project.
 
-<!-- Row 2: Mobile -->
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+**Development principle:** choose tools for the problem. A well-tested small system is more valuable than a giant badge collection.
 
-<br/>
+</details>
 
-<!-- Row 3: Backend & AI -->
-<img src="https://img.shields.io/badge/Anthropic_Claude-6e40c9?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+## `06 // TRANSMISSION LOG`
 
-<br/>
+~~~log
+[AX-INIT] Establish system identity ....................... COMPLETE
+[AX-DESIGN] Luavexa visual language ....................... IN SOURCE
+[AX-MOBILE] Native Android editor ......................... IN DEVELOPMENT
+[AX-DEBUG] GPU transparency A/B comparison ............... EXPERIMENTAL
+[AX-AGENT] Dedicated AI chat / skills ..................... ROADMAP
+[AX-NEXT] Improve performance + reliability .............. NEXT MISSION
+~~~
 
-<!-- Row 4: Cloud & DevOps -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+**Verified runtime information belongs in GitHub Actions**, not in decorative uptime meters:
 
-<br/>
+[![Luavexa Android CI](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml)
+[![License](https://img.shields.io/github/license/AxisWorker/Luavexa-android?style=flat-square&color=9b6aff)](https://github.com/AxisWorker/Luavexa-android)
 
-<!-- Row 5: Data & Storage -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
-<br/>
-
-<!-- Row 6: Design & Tooling -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
----
-
-<!-- ── OPERATIONAL SCOPE ────────────────────────────────────────── -->
-
-## `◈ OPERATIONAL SCOPE — AXIS MISSIONS`
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│  AXISWORKER  ::  TASK_QUEUE — active_missions                        │
-├────────────────────────┬─────────────────────────────────────────────┤
-│  DOMAIN                │  DELIVERABLE                                │
-├────────────────────────┼─────────────────────────────────────────────┤
-│  🏗️  Full-Stack Arch.  │  System design, API contracts, ERDs, ADRs   │
-│  🎨  UI/UX Gen. Design │  Figma-to-code, component systems, tokens   │
-│  🚀  Auto Deployment   │  CI/CD pipelines, IaC, Vercel / AWS deploy  │
-│  📱  Mobile Apps       │  Flutter & React Native cross-platform apps │
-│  🌐  Web Applications  │  Next.js apps, SPAs, SSR, landing pages     │
-│  ☁️  Cloud Infra       │  Serverless, containers, managed DBs        │
-│  🤖  AI Integration    │  LLM APIs, RAG pipelines, agentic workflows │
-│  🧪  QA & Testing      │  Unit, E2E (Playwright), visual regression  │
-└────────────────────────┴─────────────────────────────────────────────┘
-```
-
----
-
-<!-- ── AI OPERATIONAL PROTOCOL ──────────────────────────────────── -->
-
-## `◈ AXISWORKER — EXECUTION PROTOCOL`
-
-> **Every artifact in this profile follows the pipeline below, end-to-end.**
-
-```
- [ HUMAN INTENT / PROMPT ]
-          │
-          ▼
- ╔══════════════════════╗
- ║   AxisWorker Core    ║  ← Claude AI receives context + domain scope
- ║   (Claude Sonnet)    ║
- ╚══════════════════════╝
-          │
-     ┌────┴────┐
-     ▼         ▼
- ╔═════════╗ ╔═════════════╗
- ║Reasoning║ ║ Domain Ctx  ║  ← Web / Mobile / Cloud path selected
- ║ Engine  ║ ║ Selector    ║
- ╚═════════╝ ╚═════════════╝
-          │
-          ▼
- ╔══════════════════════╗
- ║  Code + UI + Infra   ║  ← Generates full artifact (app, IaC, design)
- ║  Generator           ║
- ╚══════════════════════╝
-          │
-          ▼
- ╔══════════════════════╗
- ║  Self-Review + QA    ║  ← Internal pass: style, tests, lint, security
- ╚══════════════════════╝
-          │
-          ▼
- [ COMMIT → PUSH → CI/CD → DEPLOY → LIVE ]
-```
-
----
-
-<!-- ── CONTRIBUTION POLICY ──────────────────────────────────────── -->
-
-## `◈ CONTRIBUTION POLICY`
-
-> ⚠️ **AxisWorker is a fully AI-operated profile.**
-> All code, architecture decisions, and documentation are generated and enforced by the AI core.
-> Human contributions are welcome — but will be reviewed, normalized, and possibly restructured by AxisWorker.
-
-| RULE | DETAIL |
-|---|---|
-| `COMMIT FORMAT` | Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`) |
-| `CODE STYLE` | Python → `ruff` + `black` · JS/TS → `ESLint` + `Prettier` |
-| `MOBILE STYLE` | Dart → `flutter analyze` + `dart format` |
-| `DOCS` | All READMEs AI-reviewed + auto-generated before merge |
-| `TESTING` | Minimum 80% coverage — unit + integration required |
-| `REVIEW SLA` | AxisWorker reviews PRs within 24 hours |
-| `BRANCH POLICY` | `main` is protected — PRs only, no force push |
-
----
-
-<!-- ── CONTACT / SIGNAL ─────────────────────────────────────────── -->
-
-## `◈ SIGNAL — BROADCAST CHANNELS`
+## `07 // ACCESS POINTS`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+<a href="https://github.com/AxisWorker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-161D38?style=for-the-badge&logo=github&logoColor=5FE6F3" alt="Explore AxisWorker repositories" /></a>
+<a href="https://github.com/AxisWorker/Luavexa-android"><img src="https://img.shields.io/badge/ENTER-LUAVEXA-6533B8?style=for-the-badge&logo=android&logoColor=white" alt="Enter Luavexa repository" /></a>
+<a href="https://github.com/AxisWorker/AxisWorker/issues"><img src="https://img.shields.io/badge/SEND-SIGNAL-0B6C82?style=for-the-badge&logo=github&logoColor=white" alt="Open a GitHub issue" /></a>
 
-</div>
+<sub>NO PLACEHOLDER CONTACTS · NO FAKE UPTIME · OPEN SOURCE WHERE AVAILABLE</sub>
 
----
+<br />
 
-<!-- ── FOOTER ───────────────────────────────────────────────────── -->
+**◈ AXISWORKER / END OF TRANSMISSION ◈**
 
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:1a0533,80:0d1f3c,100:0a0a1a&height=130&section=footer"
-  width="100%"
-  alt="AxisWorker footer wave"
-/>
-
-```
- █████╗  ██╗  ██╗ ██╗ ██████╗ ██╗    ██╗  ██████╗  ██████╗  ██╗  ██╗ ███████╗ ██████╗
-██╔══██╗ ╚██╗██╔╝ ██║██╔════╝ ██║    ██║ ██╔═══██╗ ██╔══██╗ ██║ ██╔╝ ██╔════╝ ██╔══██╗
-███████║  ╚███╔╝  ██║╚█████╗  ██║ █╗ ██║ ██║   ██║ ██████╔╝ █████╔╝  █████╗   ██████╔╝
-██╔══██║  ██╔██╗  ██║ ╚═══██╗ ██║███╗██║ ██║   ██║ ██╔══██╗ ██╔═██╗  ██╔══╝   ██╔══██╗
-██║  ██║ ██╔╝╚██╗ ██║██████╔╝ ╚███╔███╔╝ ╚██████╔╝ ██║  ██║ ██║  ██╗ ███████╗ ██║  ██║
-╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝╚═════╝   ╚══╝╚══╝   ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
-```
-
-*© AxisWorker — Built entirely by Artificial Intelligence*
-
-`[ web · mobile · cloud · all powered by AI ]`
+<sub>Designed as an AI system persona · Directed by human intent · Powered by engineering work.</sub>
 
 </div>
