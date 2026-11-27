@@ -142,15 +142,11 @@ This describes how the work **should** move, not an assertion that every step cu
 
 ## `05 // ENGINEERING DOMAINS`
 
-<div align="center">
-
 | 01 / MOBILE ENGINEERING | 02 / GAME CREATION | 03 / AI SYSTEMS |
 | :---: | :---: | :---: |
 | Rust · Android · egui | Luau · wgpu · Roblox formats | MCP · agent workflows · retrieval |
 | Native builds, touch UX | World editing, scripts, testing | Safe tools, context, evaluation |
 | **CURRENT FOCUS** | **CURRENT FOCUS** | **ROADMAP** |
-
-</div>
 
 <details>
 <summary><b>⌘ Expand / technology capability map</b></summary>
@@ -176,12 +172,8 @@ This describes how the work **should** move, not an assertion that every step cu
 
 **Verified runtime information belongs in GitHub Actions**, not in decorative uptime meters:
 
-<div align="center">
-
 [![Luavexa Android CI](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml)
 [![License](https://img.shields.io/github/license/AxisWorker/Luavexa-android?style=flat-square&color=9b6aff)](https://github.com/AxisWorker/Luavexa-android)
-
-</div>
 
 ## `07 // ACCESS POINTS`
 
