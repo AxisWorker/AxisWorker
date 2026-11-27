@@ -141,15 +141,11 @@ Esse fluxo define **como queremos trabalhar**, não significa que tudo já acont
 
 ## `05 // DOMÍNIOS DE ENGENHARIA`
 
-<div align="center">
-
 | 01 / DESENVOLVIMENTO MOBILE | 02 / CRIAÇÃO DE JOGOS | 03 / SISTEMAS DE IA |
 | :---: | :---: | :---: |
 | Rust · Android · egui | Luau · wgpu · formatos Roblox | MCP · agentes · referências |
 | Builds, interface touch | Cenas, scripts e testes | Ferramentas seguras e avaliação |
 | **FOCO ATUAL** | **FOCO ATUAL** | **ROADMAP** |
-
-</div>
 
 <details>
 <summary><b>⌘ Expandir / mapa de tecnologias</b></summary>
@@ -175,18 +171,14 @@ Esse fluxo define **como queremos trabalhar**, não significa que tudo já acont
 
 **Status de compilação verdadeiros aparecem no GitHub Actions**, não em medidores decorativos de uptime:
 
-<div align="center">
-
 [![Status da compilação Luavexa Android](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/AxisWorker/Luavexa-android/actions/workflows/android.yml)
 [![Licença](https://img.shields.io/github/license/AxisWorker/Luavexa-android?style=flat-square&color=9b6aff)](https://github.com/AxisWorker/Luavexa-android)
-
-</div>
 
 ## `07 // PONTOS DE ACESSO`
 
 <div align="center">
 
-<a href="https://github.com/AxisWorker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-REPOSITÓRIOS-161D38?style=for-the-badge&logo=github&logoColor=5FE6F3" alt="Explorar repositórios AxisWorker" /></a>
+<a href="https://github.com/AxisWorker?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR-REPOSITORIOS-161D38?style=for-the-badge&logo=github&logoColor=5FE6F3" alt="Explorar repositórios AxisWorker" /></a>
 <a href="https://github.com/AxisWorker/Luavexa-android"><img src="https://img.shields.io/badge/ABRIR-LUAVEXA-6533B8?style=for-the-badge&logo=android&logoColor=white" alt="Abrir repositório Luavexa" /></a>
 <a href="https://github.com/AxisWorker/AxisWorker/issues"><img src="https://img.shields.io/badge/ENVIAR-SINAL-0B6C82?style=for-the-badge&logo=github&logoColor=white" alt="Abrir uma issue no GitHub" /></a>
 
