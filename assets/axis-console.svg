@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="184" viewBox="0 0 1200 184" role="img" aria-labelledby="t d">
+<title id="t">AXISWORKER — mission control telemetry</title>
+<desc id="d">An illustrative terminal panel showing the fictional AI system persona, with clear labels separating narrative UI from measured CI data.</desc>
+<defs>
+<linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141B35"/><stop offset="1" stop-color="#0B1024"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#18DCE7"/><stop offset=".6" stop-color="#685DDF"/><stop offset="1" stop-color="#A06FFF"/></linearGradient>
+</defs>
+<style>
+  .dot{animation:pulse 2.1s ease-in-out infinite}
+  .caret{animation:blink 1.2s steps(1,end) infinite}
+  @keyframes pulse{50%{opacity:.25}}
+  @keyframes blink{50%{opacity:0}}
+  @media(prefers-reduced-motion:reduce){.dot,.caret{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="182" rx="14" fill="url(#pane)" stroke="#405179" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="6" rx="3" fill="url(#line)"/>
+<circle cx="28" cy="29" r="5.5" fill="#F47A9D"/><circle cx="47" cy="29" r="5.5" fill="#FFC878"/><circle cx="66" cy="29" r="5.5" fill="#49E1B3"/>
+<text x="94" y="35" font-family="monospace" font-size="17" fill="#CBD5F6">axisworker@mission-control:~$ system --inspect</text>
+<text x="1145" y="35" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="1" fill="#98A6D2">v3.0 / THEATRICAL UI</text>
+<path d="M16 50H1184" stroke="#32416A"/>
+<g font-family="monospace" font-size="16">
+<text x="35" y="85" fill="#8DA6D1">[ CORE ]</text>
+<text x="161" y="85" fill="#4AE2E2">AI-FIRST PERSONA</text>
+<text x="650" y="85" fill="#8DA6D1">[ AUTHORITY ]</text>
+<text x="800" y="85" fill="#C8ABFF">HUMAN DIRECTED</text>
+<text x="35" y="117" fill="#8DA6D1">[ MISSION ]</text>
+<text x="161" y="117" fill="#F0F4FF">LUAVEXA / AURORA</text>
+<text x="650" y="117" fill="#8DA6D1">[ EXECUTION ]</text>
+<text x="800" y="117" fill="#F0F4FF">REVIEW → BUILD → VERIFY</text>
+<text x="35" y="150" fill="#8DA6D1">[ SIGNAL ]</text>
+<circle class="dot" cx="173" cy="144" r="5" fill="#55E6C1"/>
+<text x="188" y="150" fill="#8ADCCF">DESIGN-DRIVEN</text>
+<text x="650" y="150" fill="#8DA6D1">[ SAFETY ]</text>
+<text x="800" y="150" fill="#A8BAF9">NO SECRET TELEMETRY</text>
+</g>
+<text x="1150" y="170" text-anchor="end" font-family="monospace" font-size="11" fill="#6477A2">VISUAL CONCEPT — NOT REAL-TIME HEALTH DATA<tspan class="caret" fill="#4AE2E2">_</tspan></text>
+</svg>
